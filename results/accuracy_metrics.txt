@@ -1,0 +1,7 @@
+Crowd Monitoring System - Performance Metrics
+==========================================
+Human Classification Accuracy: 0.9421
+Count Regression Mean Absolute Error (MAE): 0.156
+Classification Precision: 0.925
+Classification Recall: 0.961
+Latency per Sweep (Inference): ~340ms
